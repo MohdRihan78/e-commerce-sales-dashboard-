@@ -4,16 +4,12 @@
 This Power BI project provides a detailed analysis of company sales performance.  
 It visualizes key insights such as total revenue, top-performing products, and regional growth trends — helping management make better business decisions.
 
----
-
 ## 🚀 Features
 - 📈 Sales Overview (Total Sales, Profit, and Growth)
 - 🛍️ Product-wise Performance
 - 🌍 Region-wise Sales Analysis
 - 👥 Customer Segmentation
 - 📅 Monthly and Yearly Trend Comparison
-
----
 
 ## 📂 Files in this Repository
 | File Name | Description |
@@ -32,11 +28,6 @@ It visualizes key insights such as total revenue, top-performing products, and r
 - Microsoft **Excel**  
 - **DAX** (Data Analysis Expressions)  
 - **Power Query** for data cleaning
-
-## 🖼️ Dashboard Preview
-*(Add a screenshot of your report here)*  
-Example:
-```markdown
-![Dashboard Preview](images/dashboard_preview.png)
+  
 
 
