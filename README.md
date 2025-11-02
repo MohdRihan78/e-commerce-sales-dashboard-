@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Dashboard
+# 📊 Power BI E-Commerce Sales Dashboard
 
 ## 🧠 Project Overview
 This Power BI project provides a detailed analysis of company sales performance.  
